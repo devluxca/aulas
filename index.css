@@ -1,0 +1,14 @@
+p {
+  color: red;
+}
+
+.title {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+#btn {
+  font-size: 20px;
+  background: black;
+  color: white;
+}
